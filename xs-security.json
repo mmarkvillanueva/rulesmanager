@@ -1,21 +1,7 @@
 {
     "xsappname": "rulesmanager",
     "tenant-mode": "dedicated",
-    "scopes": [
-      {
-        "name": "$XSAPPNAME.RulesManager",
-        "description": "RulesManager"
-      }
-    ],
+    "scopes": [],
     "attributes": [],
-    "role-templates": [
-      {
-        "name": "RulesManager",
-        "description": "Rules Manager",
-        "scope-references": [
-          "$XSAPPNAME.RulesManager"
-        ],
-        "attribute-references": []
-      }
-    ]
+    "role-templates": []
   }
