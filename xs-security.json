@@ -1,6 +1,7 @@
 {
     "xsappname": "rulesmanager",
     "tenant-mode": "dedicated",
+    "description": "Security Profile",
     "scopes": [],
     "attributes": [],
     "role-templates": []
